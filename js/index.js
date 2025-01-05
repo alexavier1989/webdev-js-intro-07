@@ -1,7 +1,7 @@
 "use strict"
 
 // A function to calculate the factorial of a number.
-// function factorial(n) {
+// function factorial(n = 5) {
 //     if (n === 0) {
 //         return 1;
 //     } else {
@@ -9,6 +9,8 @@
 //     }
 // }
 // console.log(factorial(8)); // Output: 40320
+// console.log(factorial()); // Output: 120
+
 
 
 // Using the filter array method to extract even numbers from an array.
